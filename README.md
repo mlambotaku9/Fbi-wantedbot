@@ -18,12 +18,9 @@ pip install requests pytelegrambotapi
 ```
 + Clone repository
 ```bash
-git clone https://github.com/Kourva/FBI-Wanted && cd FBI-Wanted && chmod +x install.sh
+git clone https://github.com/bot-developer03/FBI-Wantedbot && cd FBI-Wantedbot && chmod +x install.sh
 ```
 + Run the bot
 ```bash
 python3 main.py
 ```
-
-# Heroku
-You can also deploy your bot in [Heroku](https://www.heroku.com)!
