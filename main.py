@@ -9,7 +9,7 @@ import sys
 import os
 
 ## Config
-token = "6982682207:AAH2MQ2B_h_MrPNhCnwpn9cnNwLgygxsyms"//your bot token from bot father 
+token = "6982682207:6959653347:AAGNJuQS2n-UhHlIKM2lhB8FeGBB-gIQ9ws"//your bot token from bot father 
 bot = telebot.TeleBot(token)
 
 ## Start command
