@@ -20,7 +20,7 @@ pip install requests pytelegrambotapi
 ```
 + Clone repository
 ```bash
-git clone https://github.com/bot-developer03/FBI-Wantedbot && cd FBI-Wantedbot && chmod +x install.sh
+git clone https://github.com/mlambotaku9/FBI-Wantedbot && cd FBI-Wantedbot && chmod +x install.sh
 ```
 + Run the bot
 ```bash
