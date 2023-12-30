@@ -9,6 +9,8 @@ Telegram bot to check the wanted people in FBI wanted list using FBI's official 
 **line 12** -> Your bot token from [BotFather](https://t.me/botfather)
 + You can change the commands or whatever you want
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Install
 + You can  simply run install.sh or do it manually below
 
