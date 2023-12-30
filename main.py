@@ -28,7 +28,7 @@ def start(message):
 
 ## About command
 @bot.message_handler(commands=["about"])
-def start(message):
+def about(message):
     about = "With this bot you can check the wanted people in FBI wanted list\nUsage: /usage\nTotal wanted: /wanted"
     bot.send_chat_action(message.chat.id, "typing")
     bot.reply_to(message, usage)
